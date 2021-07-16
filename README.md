@@ -6,4 +6,11 @@ This app uses pixabay Api to get images. The user can search for images. App con
 2) Search Results Page
 
 # Screenshot of the app
+
+## Search 
 ![image](https://github.com/sdkdeepa/Search-image-flutter-app/blob/main/screenshots/app_screenshot.png)
+
+
+
+## Search Results
+![image](https://github.com/sdkdeepa/Search-image-flutter-app/blob/main/screenshots/app_searchresults.png)
