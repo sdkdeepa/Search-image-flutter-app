@@ -1,16 +1,9 @@
-# pic_a_picture_app
+# Pick a Pic Flutter App
 
-A new Flutter project.
+This app uses pixabay Api to get images. The user can search for images. App contains two screens
 
-## Getting Started
+1) Search Page
+2) Search Results Page
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshot of the app
+![image](https://github.com/sdkdeepa/Search-image-flutter-app/blob/main/screenshots/app_screenshot.png)
