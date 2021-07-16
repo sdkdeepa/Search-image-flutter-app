@@ -1,6 +1,6 @@
 # Pick a Pic Flutter App
 
-This app uses pixabay Api to get images. The user can search for images. App contains two screens
+This app uses Pixabay Api to get images (API key not added in util file for security reasons). The user can search for images. App contains two screens
 
 1) Search Page
 2) Search Results Page
