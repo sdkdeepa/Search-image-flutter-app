@@ -8,6 +8,17 @@ App contains two screens
 2) Search Results Page
 
 
+# Installation
+
+Follow instructions below, 
+
+1. Install android Studio (have an emulator set in AVD manager) - https://flutter.dev/docs/get-started/editor?tab=androidstudio
+2. Set up Xcode for flutter development - https://flutter.dev/docs/get-started/install/macos
+3. Add the api key in https://github.com/sdkdeepa/Search-image-flutter-app/blob/main/lib/utils/scr.dart
+4. Select device and run the app 
+
+![image](https://github.com/sdkdeepa/Search-image-flutter-app/blob/main/screenshots/RunApp.png)
+
 # Screenshot of the app
 
 ## Search 
